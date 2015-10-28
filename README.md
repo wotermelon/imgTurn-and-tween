@@ -1,2 +1,2 @@
-# gulpdemo
-gulpfile and package.json
+#图片轮播
+使用原生JS写的图片轮播，加tween缓冲插件，可使用各种贝塞尔曲线缓冲效果
